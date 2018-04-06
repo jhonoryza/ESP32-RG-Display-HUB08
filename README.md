@@ -1,3 +1,6 @@
+
+this is a fork from ESP32RGBmatrixPanel library by VGottselig modified for RG display P7 HUB08, already tested with ESP32
+
 # ESP32-RGB-Matrix-Display
 Features:
  - 4 bit colors per channel, 4096 colors total
